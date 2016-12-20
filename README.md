@@ -12,7 +12,7 @@ possible words for the final solution.
 ## Example
 The following image shows an example use of the application for solving the Jumble on 12/20/2016. (WARNING: Spoilers Ahead)
 
+![Example-usage](https://github.com/slotterbackW/UnJumbler/blob/master/UnJumbler-Screenshot.png "Example usage")
 
-
-Riddle: When they hired him as the new tightrope walker he hoped it would be a --
+Riddle: When they hired him as the new tightrope walker he hoped it would be a --\n
 Answer: Steady Job
