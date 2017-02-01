@@ -1,5 +1,5 @@
 # UnJumbler
-A command line application for solving the daily Jumble in the San Francisco Chronicle. Written in Python 3.5.
+A command line application for solving the daily Jumble in the San Francisco Chronicle.
 
 ## To Run
 Simply navigate to the location of UnJumbler.py in your filesystem and (with Python 3.5 installed and words.txt in the same folder) do
